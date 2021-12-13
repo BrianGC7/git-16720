@@ -4,10 +4,8 @@
 /*RESET*/
 *{
     margin: 0;
-    padding: 0;
-    
+    padding: 0;   
 }
-
 
 
 /*color de fondo para el body, es discutible por el momento */
@@ -15,10 +13,6 @@ body{
     background: rgb(204, 196, 196);
     height: 100vh;
 }
-
-
-/*color de fuente para la tipografía */
-
 
 
 
@@ -147,6 +141,8 @@ footer {
     /*grid-row-gap: 1px;
     grid-column-gap: 1px;*/
 }
+
+
 /*BORDES*/
 
 .border{
@@ -169,8 +165,6 @@ footer {
 
 
   
-
-
 /*                                  FLEXBOX                  */
 
 
@@ -211,6 +205,8 @@ h1 {
       opacity: 1;
     }
  }
+
+
 
 
  /*   -----------------------------------------------------------------------------------------------------------------  */
